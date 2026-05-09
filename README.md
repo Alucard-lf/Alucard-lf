@@ -1,45 +1,46 @@
-<h1 align="center">Olá, eu sou o Daniel Vitor! 👋</h1>
+# Olá, eu sou o Daniel Vitor! 👋
 
 <p align="center">
   <strong>Estudante de Ciência da Computação | Desenvolvedor de Jogos | Corretor Imobiliário</strong>
 </p>
 
-<p align="left">
-  Sou graduando em <strong>Ciência da Computação</strong> e entusiasta do desenvolvimento de software e segurança da informação. Atualmente, foco meus estudos em linguagens como <strong>C#</strong>, <strong>Java</strong>, <strong>Python</strong> e <strong>Node.js</strong>.
-</p>
+Sou graduando em **Ciência da Computação** e entusiasta do desenvolvimento de software e segurança da informação. Atualmente, foco meus estudos em linguagens como **C#, Java, Python** e **Node.js**.
 
-<p align="left">
-  No momento, estou dedicando meu tempo livre ao desenvolvimento independente de um <strong>jogo de terror psicológico</strong> utilizando a engine <strong>Unity</strong>, explorando roteiro, mecânicas de suspense e ambientação. Além disso, tenho grande interesse em temas como cibersegurança e linguagens formais.
-</p>
+No momento, estou dedicando meu tempo livre ao desenvolvimento independente de um **jogo de terror psicológico** utilizando a engine **Unity**, explorando roteiro, mecânicas de suspense e ambientação. Além disso, tenho grande interesse em temas como cibersegurança e linguagens formais.
 
 <hr>
 
-<h3 align="left">Conecte-se comigo:</h3>
+### Conecte-se comigo:
 <p align="left">
-  <a href="mailto:SEU_EMAIL_AQUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email do Daniel" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn do Daniel" height="30" width="40" /></a>
+  <!-- Gmail -->
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  &nbsp;&nbsp; <!-- Espaço em branco -->
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/daniel-rocha-661814278" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens, Engines e Ferramentas que estou estudando:</h3>
+### Linguagens, Engines e Ferramentas que estou estudando:
+
+<!-- ESTA TABELA ALINHA TUDO NA HORIZONTAL -->
 <p align="left">
   <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <!-- Unity -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
   <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
   <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reproject_reactnative/reproject_reactnative-icon.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
